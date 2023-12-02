@@ -1,0 +1,14 @@
+.mother{
+    background-color: blue;
+    height: 500px;
+    width: 700px;
+    margin-left: 425px;
+    margin-top: 200px;
+}
+.child{
+    background-color: green;
+    height: 200px;
+    width: 300px;
+    margin-top: 150px;
+    margin: auto;
+}
